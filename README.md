@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hey there, welcome to my namespace 👋
 
+I am Tushya from beautiful Raincouver(Vancouver), British Columbia 🌧
+
+Currently persuing a Computer System from BCIT
+
+Fumbling my way through all things tech...
+
+_Especially_ interested in Linux and open source at the moment. I am trying out new distributions on my second computer and I am starting to dip my toes into NixOS
+
+Working in carbon capture so I can help empower crazy scientists and engineers to save our planet
+<br>
+<br>
+
+😄 Pronouns: He/Him
 <!--
 **bakedSpaceTime/bakedSpaceTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
